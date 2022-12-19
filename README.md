@@ -1,2 +1,2 @@
 # Hazard-Detection-and-Safety-system
-An Ai system that detects different hazards and safety purposes and alarm the workers.
+Safety affects the society in many fields. It impacts the economy and the social life of the countries. Many sites face a problem in insuring the workers lives in addition to the products. Our solution was to create an Ai system that detects different hazards and safety purposes and alarm the workers. By implementing our solution we were able to create an accurate model that helps facilitating the detection process.
